@@ -10,8 +10,10 @@
 - `react-native run`
 
 <br />
-<a href='https://onlinewallpapers.github.io' target='_blank'><h3 align='center'>Online Wallpaper .github.io</h3></a>
 
 <p align='center'>
-    <img src='https://onlinewallpapers.github.io/images/logo.gif' width='70%' />
+    <img src='https://onlinewallpapers.github.io/images/phone.png' width='40%' />
 </p>
+
+<br />
+### https://onlinewallpapers.github.io
