@@ -19,12 +19,11 @@
 
 <br />
 
-<p align='center'>
+<h2 align='center'>
 	<a href='https://play.google.com/store/apps/details?id=com.onlinebackgrounds' target='_blank'>
-		<img src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
+		On Play Store
 	</a>
-	[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="40%" />](https://play.google.com/store/apps/details?id=com.onlinebackgrounds)
-</p>
+</h2>
 
 <br />
 
