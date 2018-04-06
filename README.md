@@ -20,9 +20,7 @@
 <br />
 
 <p align='center'>
-	<a href='https://play.google.com/store/apps/details?id=com.onlinebackgrounds' target='_blank'>
-		<img src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='60%' />
-	</a>
+		<img src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
 </p>
 
 <br />
