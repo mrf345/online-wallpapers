@@ -12,8 +12,9 @@
 <br />
 
 ### known issues:
-> - [react-native-wallpaper-manager](https://github.com/liuhong1happy/react-native-wallpaper-manager) npm package is not up to date with git repo. So to get the source-code running you'll have to manually modify this file : `online-wallpapers/node_modules/react-native-wallpaper-manager/android/src/main/java/com/cunyutech/hollyliu/reactnative/wallpaper/wallPaperPackage.java` to be identical to [the one in repo](https://github.com/liuhong1happy/react-native-wallpaper-manager/blob/master/android/src/main/java/com/cunyutech/hollyliu/reactnative/wallpaper/WallPaperPackage.java)
+- [react-native-wallpaper-manager](https://github.com/liuhong1happy/react-native-wallpaper-manager) npm package is not up to date with git repo. So to get the source-code running you'll have to manually modify this file : `online-wallpapers/node_modules/react-native-wallpaper-manager/android/src/main/java/com/cunyutech/hollyliu/reactnative/wallpaper/wallPaperPackage.java` to be identical to [the one in repo](https://github.com/liuhong1happy/react-native-wallpaper-manager/blob/master/android/src/main/java/com/cunyutech/hollyliu/reactnative/wallpaper/WallPaperPackage.java)
 
+<br />
 <br />
 <p align='center'>
     <img src='https://onlinewallpapers.github.io/images/phone.png' width='40%' />
