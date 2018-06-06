@@ -34,7 +34,7 @@
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9d7f8bbdf7f8424dbef42cbe80d2e94597ea0dd9">
+        sha1="56ed7f61f0480b7a5aef675e2e9fb7e14311ca88">
         <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/OnlineBackgrounds-react-native-wallpaper-manager-unspecified_b6e7c014b12c2586e51f84a0cceeea299c4c04ad.jar" />
     </item>
     <item
