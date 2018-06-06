@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a7b2f7d778c7793c2f81c2138786a957134ba13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_30fd43d8bb1b66920b9df05e3b140bb333be11e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/cn.aigestudio.wheelpicker/WheelPicker/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c27aea45fb254d37cb280bdd770a358d9b0fd2e">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/cn.aigestudio.wheelpicker-WheelPicker-1.1.2_31eb981c0c2f8080b7b61fbae92b9f2a791551e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/OnlineBackgrounds/react-native-wallpaper-manager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9d7f8bbdf7f8424dbef42cbe80d2e94597ea0dd9">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/OnlineBackgrounds-react-native-wallpaper-manager-unspecified_b6e7c014b12c2586e51f84a0cceeea299c4c04ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fd658789270bedefb92009efdbd1126a711f1f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_59588d69693ccadb52bfe16bc478073747e4b260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_037b01baf510ac8cf48a6b023271c22c1e1f3cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/net.vrallev.android/cat/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c61a0369f93fb7901fde1bdae68fc71de256244c">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/net.vrallev.android-cat-1.0.5_57f9fab3640507688a0c230d6aaa03af4e3543e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/OnlineBackgrounds/react-native-background-timer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8da65ffed211f96dfc93950376fa79ba2db13f7a">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/OnlineBackgrounds-react-native-background-timer-unspecified_5d033fca837dae0f4ea7e6c6a3611e50c6f01b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9058591b867ca7d6d635d10b1a2fdb7d78af1d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1ad18ee3878245e3774561b0ae5c5e00fda345bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_371adeaf2e4822e72c4339a24926f9a3020e7109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_247933a960799b50095fe0ea6c022d3e50c9d670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/OnlineBackgrounds/react-native-background-task/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b77a67446d43986cbecb2512028e013f7bdfec7d">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/OnlineBackgrounds-react-native-background-task-unspecified_548a64c1f27993ddf68b4d58cd70fe013ca812af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/glide-3.7.0_5c9b93f2c01e8f584d8aa00e4e80c67cd193b57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_3ab5952ae6ecbf16f7177e873d21982477621b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0a8e7ef159f7995ec96475f4aa1d56ed145179dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_c2b1ad7a357caf600d153a156db6de8e234db92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_18376bf1f9cc69958d71770f367bf34459896f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1f75e40acae068a347f03439e215e2fc7a05af5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_229ae0b489a6cd726ec7bf491fbe7486223248f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_5387e0d209503254795138f43aab223c350d0fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_aed40e7c38b2ad579b053d99cfdec3a4328d9580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_15936a6ce4937f6017d435e7cb9f34bed5158ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.evernote/android-job/1.1.11/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="978a742818fa8e1d6a014f26db191b7f72de2880">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.evernote-android-job-1.1.11_f1d545e945e664cf07773eaeae28ab1777206a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1ae6b0dd2371f9738a64dc353ee078f4f5d3d3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_cccbbbfd77a316af80624a496dbf23353d7b1903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_3ab74acd8cf680a0281600a897bbe1568edf0fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_42f8d7566e618ed921cf365cfe4224482e4136bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ff278db0e36c3aa3e977441ba51d7405b9fb9db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_efc549788580b6dfdc37d70afa96203847387256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/OnlineBackgrounds/react-native-wheel-picker-android/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cef549462a27438e91d35374dc85f618ce15e5b4">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/OnlineBackgrounds-react-native-wheel-picker-android-unspecified_c677c5ae1f9d71df141b027dabab1d2187c08a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mrf3/online-wallpapers/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/mrf3/online-wallpapers/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3a0d0cab2f3c95b3ba62b4233028e6753bd8b53d.jar" />
+    </item>
+
+</items>

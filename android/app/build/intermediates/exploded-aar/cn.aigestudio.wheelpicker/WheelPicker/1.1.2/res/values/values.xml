@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WheelArrayDefault">
+        <item>AigeStudio</item>
+        <item>Aige</item>
+        <item>爱哥</item>
+        <item>الحب  اخي</item>
+        <item>jeg elsker</item>
+        <item>사랑해요 형</item>
+        <item>Amor de irmão</item>
+        <item>armastan</item>
+        <item>愛の兄</item>
+        <item>обичам те</item>
+        <item>любовь - братa</item>
+        <item>miłość bracie</item>
+        <item>Liebe</item>
+        <item>Lamour</item>
+        <item>rakastan sinua</item>
+        <item>láska..</item>
+        <item>dragostea.</item>
+        <item>jag älskar</item>
+        <item>ljubezen, brat.</item>
+        <item>愛哥</item>
+        <item>ชอบพี่</item>
+        <item>αγάπη μου</item>
+        <item>a szerelem.</item>
+        <item>Amore, fratello.</item>
+    </string-array>
+    <string-array name="WheelArrayWeek">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <declare-styleable name="WheelPicker"><attr format="reference" name="wheel_data"/><attr format="integer" name="wheel_selected_item_position"/><attr format="dimension" name="wheel_item_text_size"/><attr format="color" name="wheel_item_text_color"/><attr format="color" name="wheel_selected_item_text_color"/><attr format="boolean" name="wheel_same_width"/><attr format="string" name="wheel_maximum_width_text"/><attr format="integer" name="wheel_maximum_width_text_position"/><attr format="integer" name="wheel_visible_item_count"/><attr format="dimension" name="wheel_item_space"/><attr format="boolean" name="wheel_cyclic"/><attr format="boolean" name="wheel_indicator"/><attr format="color" name="wheel_indicator_color"/><attr format="dimension" name="wheel_indicator_size"/><attr format="boolean" name="wheel_curtain"/><attr format="color" name="wheel_curtain_color"/><attr format="boolean" name="wheel_atmospheric"/><attr format="boolean" name="wheel_curved"/><attr format="enum" name="wheel_item_align"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <dimen name="WheelIndicatorSize">2dp</dimen>
+    <dimen name="WheelItemSpace">12dp</dimen>
+    <dimen name="WheelItemTextSize">24sp</dimen>
+    <dimen name="WheelMargins">8dp</dimen>
+    <string name="Day">D</string>
+    <string name="Month">M</string>
+    <string name="Year">Y</string>
+</resources>
